@@ -14,3 +14,7 @@ var elixir = require('laravel-elixir');
 elixir(function(mix) {
     mix.sass('app.scss');
 });
+// 出力ファイル名を指定する場合
+elixir(function(mix) {
+    mix.less('app.scss', 'public/stylesheets/style.css');
+});
