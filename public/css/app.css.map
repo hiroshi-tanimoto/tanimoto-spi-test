@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA","file":"app.css","sourcesContent":[]}
+=======
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AACA;EACI,YAAY,EAIf;EAHG;IACI,gBAAgB,EACnB;;AAGL;EACI,YAAW,EACd","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n.first-list {\n    width: 100%;\n    li {\n        font-size: 2rem;\n    }\n}\n\nh1 {\n    color: #red;\n}"]}
+>>>>>>> aef2be4e42b5fbee52a40a6cd56c0825d03a3533
